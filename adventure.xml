@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for pete@chuff.it</title>
+    <dateCreated>Tue, 17 Sep 2019 08:38:31 -0500</dateCreated>
+    <ownerEmail>pete@chuff.it</ownerEmail>
+  </head>
+  <body>
+    <outline text="Bikes and Adventure" title="Bikes and Adventure">
+<outline text="The Inner Ring" title="The Inner Ring" type="rss" xmlUrl="http://feeds.feedburner.com/inrng/inrng0" htmlUrl="http://inrng.com"/>
+<outline text="Irish Peloton" title="Irish Peloton" type="rss" xmlUrl="http://www.irishpeloton.com/feed/" htmlUrl="http://www.irishpeloton.com"/>
+<outline text="tracksterman" title="tracksterman" type="rss" xmlUrl="http://tracksterman.tumblr.com/rss" htmlUrl="https://tracksterman.tumblr.com/"/>
+<outline text="Blog – Alastair Humphreys" title="Blog – Alastair Humphreys" type="rss" xmlUrl="http://www.alastairhumphreys.com/category/blog/feed/" htmlUrl="https://www.alastairhumphreys.com"/>
+<outline text="Yorkshire Cyclo-Cross Association" title="Yorkshire Cyclo-Cross Association" type="rss" xmlUrl="http://yorkshirecyclocross.com/feed/" htmlUrl="https://yorkshirecyclocross.com"/>
+<outline text="Flahute Juggernaut" title="Flahute Juggernaut" type="rss" xmlUrl="http://flahutejuggernaut.tumblr.com/rss" htmlUrl="https://flahutejuggernaut.tumblr.com/"/>
+<outline text="Richard Sharp - Cycle Racing Dad" title="Richard Sharp - Cycle Racing Dad" type="rss" xmlUrl="http://cycleracingdad.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://cycleracingdad.blogspot.com/"/>
+<outline text="We Love Mountains" title="We Love Mountains" type="rss" xmlUrl="http://welovemountains.net/feed/" htmlUrl="http://welovemountains.net"/>
+<outline text="Blog" title="Blog" type="rss" xmlUrl="http://www.yorkcycleworks.com/blog?format=RSS" htmlUrl="http://www.yorkcycleworks.com/blog/"/>
+<outline text="grit.cx" title="grit.cx" type="rss" xmlUrl="http://grit.cx/feed" htmlUrl="http://grit.cx"/>
+<outline text="thunderthighsmckay" title="thunderthighsmckay" type="rss" xmlUrl="https://thunderthighsmckay.wordpress.com/feed/" htmlUrl="https://thunderthighsmckay.wordpress.com"/>
+<outline text="News - Velo Club York" title="News - Velo Club York" type="rss" xmlUrl="http://veloclubyork.co.uk/news/?format=rss" htmlUrl="http://veloclubyork.co.uk/news/"/>
+<outline text="Magazine – grit.cx" title="Magazine – grit.cx" type="rss" xmlUrl="http://grit.cx/category/magazine/feed" htmlUrl="http://grit.cx"/>
+<outline text="Latest from off-road.cc" title="Latest from off-road.cc" type="rss" xmlUrl="http://off-road.cc/rss.xml" htmlUrl="https://off.road.cc/new-content-rss"/>
+<outline text="GRAVELBIKE" title="GRAVELBIKE" type="rss" xmlUrl="https://www.gravelbike.com/feed/" htmlUrl="https://www.gravelbike.com"/>
+<outline text="Adventure Cycling Association Blog" title="Adventure Cycling Association Blog" type="rss" xmlUrl="https://www.adventurecycling.org/index.cfm/_api/feed/v1/default/?feedID=392268A9-665A-4798-A38CCDEB3D87ECE5" htmlUrl="https://www.adventurecycling.org"/>
+<outline text="Bikepacking Gear Reviews | Bikepacking Tips &amp; How To videos | Bikepacking Life" title="Bikepacking Gear Reviews | Bikepacking Tips &amp; How To videos | Bikepacking Life" type="rss" xmlUrl="http://bikepackinglife.com/feed" htmlUrl="http://bikepackinglife.com"/>
+<outline text="gravel – Cyclocross Magazine – Cyclocross News, Races, Bikes, Photos, Videos" title="gravel – Cyclocross Magazine – Cyclocross News, Races, Bikes, Photos, Videos" type="rss" xmlUrl="https://www.cxmagazine.com/category/gravel-grinder-races-bikes-gear/feed" htmlUrl="https://www.cxmagazine.com"/>
+<outline text="ADVNTR." title="ADVNTR." type="rss" xmlUrl="https://advntr.cc/feed/" htmlUrl="https://advntr.cc"/>
+<outline text="Bikepacking Scotland" title="Bikepacking Scotland" type="rss" xmlUrl="http://bikepackingscotland.com/feed/" htmlUrl="http://bikepackingscotland.com"/>
+<outline text="drpidgeon - Blog" title="drpidgeon - Blog" type="rss" xmlUrl="http://www.drpidgeon.co.uk/1/feed" htmlUrl="http://www.drpidgeon.co.uk/blog"/>
+<outline text="ScotRoutes" title="ScotRoutes" type="rss" xmlUrl="http://www.blog.scotroutes.com/feeds/posts/default" htmlUrl="https://www.blog.scotroutes.com/"/>
+<outline text="Craig Mod — Books and essays on walking, Japan, photography, and publishing" title="Craig Mod — Books and essays on walking, Japan, photography, and publishing" type="rss" xmlUrl="https://craigmod.com/index.xml" htmlUrl="https://craigmod.com/"/>
+    </outline>
+  </body>
+</opml>

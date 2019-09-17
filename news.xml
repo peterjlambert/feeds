@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for pete@chuff.it</title>
+    <dateCreated>Tue, 17 Sep 2019 08:30:36 -0500</dateCreated>
+    <ownerEmail>pete@chuff.it</ownerEmail>
+  </head>
+  <body>
+    <outline text="News" title="News">
+<outline text="The Daily MashThe Daily Mash" title="The Daily MashThe Daily Mash" type="rss" xmlUrl="http://feeds.feedburner.com/thedailymash" htmlUrl="https://www.thedailymash.co.uk"/>
+<outline text="York Press | News" title="York Press | News" type="rss" xmlUrl="http://www.yorkpress.co.uk/news/rss/" htmlUrl="https://www.yorkpress.co.uk"/>
+<outline text="Home – The Conversation" title="Home – The Conversation" type="rss" xmlUrl="http://theconversation.com/uk/home-page/articles.atom" htmlUrl="https://theconversation.com"/>
+<outline text="Home – News – The Conversation" title="Home – News – The Conversation" type="rss" xmlUrl="http://theconversation.com/uk/home-page/news.atom" htmlUrl="http://theconversation.com"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for pete@chuff.it</title>
+    <dateCreated>Tue, 17 Sep 2019 08:26:24 -0500</dateCreated>
+    <ownerEmail>pete@chuff.it</ownerEmail>
+  </head>
+  <body>
+    <outline text="Web Tech and Design" title="Web Tech and Design">
+<outline text="Little Big Details" title="Little Big Details" type="rss" xmlUrl="http://feeds.feedburner.com/littlebigdetails#_=_" htmlUrl="https://littlebigdetails.com/"/>
+<outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
+<outline text="Brad Frost" title="Brad Frost" type="rss" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog" htmlUrl="http://bradfrost.com"/>
+<outline text="Stubbornella" title="Stubbornella" type="rss" xmlUrl="http://www.stubbornella.org/content/feed/" htmlUrl="http://www.stubbornella.org/content"/>
+<outline text="Wes Bos" title="Wes Bos" type="rss" xmlUrl="http://feeds.feedburner.com/wesbos/ZXAx" htmlUrl="https://wesbos.com"/>
+<outline text="HeydonWorks" title="HeydonWorks" type="rss" xmlUrl="http://www.heydonworks.com/feed" htmlUrl="http://www.heydonworks.com"/>
+<outline text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
+<outline text="bitsofcode" title="bitsofcode" type="rss" xmlUrl="https://bitsofco.de/rss/" htmlUrl="https://bitsofco.de/"/>
+<outline text="Signal v. Noise - Medium" title="Signal v. Noise - Medium" type="rss" xmlUrl="https://m.signalvnoise.com/feed" htmlUrl="https://m.signalvnoise.com"/>
+<outline text="Ben Frain" title="Ben Frain" type="rss" xmlUrl="https://benfrain.com/feed/" htmlUrl="https://benfrain.com"/>
+<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="https://snook.ca/posts/index.rss" htmlUrl="https://snook.ca/"/>
+<outline text="Matthias Ott – User Experience Designer" title="Matthias Ott – User Experience Designer" type="rss" xmlUrl="https://matthiasott.com/feed" htmlUrl="http://matthiasott.com"/>
+<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" type="rss" xmlUrl="https://alistapart.com/main/feed" htmlUrl="&#10;			https://alistapart.com		"/>
+<outline text="Hicksdesign - Hicks Journal" title="Hicksdesign - Hicks Journal" type="rss" xmlUrl="https://hicksdesign.co.uk/?rss=1&amp;section=journal" htmlUrl="https://hicksdesign.co.uk/"/>
+<outline text="CSS Wizardry" title="CSS Wizardry" type="rss" xmlUrl="http://feeds.feedburner.com/csswizardry" htmlUrl="https://csswizardry.com/"/>
+<outline text="macwright.org" title="macwright.org" type="rss" xmlUrl="https://macwright.org/rss.xml" htmlUrl="https://macwright.org"/>
+<outline text="Pine" title="Pine" type="rss" xmlUrl="https://pineco.de/feed/" htmlUrl="https://pineco.de"/>
+<outline text="Zach Leatherman" title="Zach Leatherman" type="rss" xmlUrl="https://www.zachleat.com/web/feed/" htmlUrl="https://www.zachleat.com/web/"/>
+<outline text="CSS on Smashing Magazine" title="CSS on Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/category/css/index.xml" htmlUrl="https://www.smashingmagazine.com/categories/css/"/>
+<outline text="CSS { In Real Life }" title="CSS { In Real Life }" type="rss" xmlUrl="https://css-irl.info/rss.xml" htmlUrl="https://css-irl.info"/>
+<outline text="Stéphanie Walter – UX and UI Design, Mobile optimization" title="Stéphanie Walter – UX and UI Design, Mobile optimization" type="rss" xmlUrl="http://feedpress.me/stephaniewalter-blog-en" htmlUrl="https://stephaniewalter.design"/>
+<outline text="Derek Featherstone" title="Derek Featherstone" type="rss" xmlUrl="http://feather.ca/feed/" htmlUrl="http://feather.ca"/>
+<outline text="a11y with Lindsey" title="a11y with Lindsey" type="rss" xmlUrl="https://www.a11ywithlindsey.com/rss.xml" htmlUrl="https://www.a11ywithlindsey.com"/>
+<outline text="Zach Leatherman’s Notes" title="Zach Leatherman’s Notes" type="rss" xmlUrl="https://www.zachleat.com/web/notes/feed/" htmlUrl="https://www.zachleat.com/web/notes/"/>
+    </outline>
+  </body>
+</opml>
